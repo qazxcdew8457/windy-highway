@@ -11,4 +11,4 @@ Collect those skill points to upgrade your ball.
 Be careful without closing the edge of the road.
 
 
-Email: windy-highway@googlegroups.com
+Support: windy-highway@googlegroups.com
