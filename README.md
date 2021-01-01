@@ -1,8 +1,8 @@
 # Windy Highway
 
-Android - 
+Android - https://play.google.com/store/apps/details?id=com.jetac.windyhighway
 
-iOS - 
+iOS - https://itunes.apple.com/app/windy-highway/id1541318143
 
 
 Drive the ball on the road at a high speed, heading to the next destination.  
