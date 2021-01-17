@@ -1,3 +1,6 @@
+# Google
+google.com, pub-2115855647966987, DIRECT, f08c47fec0942fa0
+
 # Unity Ads
 unity.com, 2789552, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
